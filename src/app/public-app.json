@@ -4,7 +4,7 @@
   "description": "An example to demonstrate how to build a public app with developer projects.",
   "allowedUrls": ["https://api.example.com"],
   "auth": {
-    "redirectUrls": ["http://localhost:3000/oauth-callback"],
+    "redirectUrls": ["https://0a2b-138-199-35-119.ngrok-free.app/oauth-callback"],
     "requiredScopes": ["crm.objects.contacts.read", "crm.objects.contacts.write"],
     "optionalScopes": [],
     "conditionallyRequiredScopes": []
